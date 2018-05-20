@@ -18,6 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
 theme = "hugo-tranquilpeak-theme"
 themeDir = "themes"
+publishDir = "docs"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
